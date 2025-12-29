@@ -1,7 +1,7 @@
 # 2024-NBA-Rookie-Class-Analysis
 **Executive Summary**
 The 2024 NBA Rookie Class was touted by sports media as among the weakest ever in the league with no players from that class striking headlines to this day. To determine if this class truly was as weak as reported or just misunderstood, I analysed the lottery picks of 6 draft classes throughout 25 years. 3 of these were historically weak draft classes (2000, 2013, and 2024) and the other 3 were the draft classes exactly the year before as a control. I utilised Hollinger's Game Score to evaluate the class' performance throughout their first 2 seasons. 
-What I found was the 2024 class averaged a Game Score of 6.8 against the league average of 10.1, the highest difference among the weak classes. There can be many factors that influenced this ranging from simply lack of talent to the higher demands of the NBA for pace and shooting. 
+What I found was the 2024 class averaged a Game Score of 6.8 against the league average of 10.1, the highest difference among the weak classes and making this class the weakest in modern NBA history. 
 
 **Chart 1: Raw Efficiency Trends**
 Analyses the average Game Score of the first 14 picks of the weakest draft classes in modern NBA history. The class averages increased as the years progressed however this is likely a false positive linked to the dead ball era of the early 2000s and the fast paced offense in the NBA of the 2020s. 
